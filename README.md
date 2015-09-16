@@ -2,6 +2,7 @@
 django_layout is one style to organize django code.
 now it base 1.8.4, layout looks like below:
 
+```
 ├── README.md
 ├── conf
 ├── docs
@@ -25,6 +26,7 @@ now it base 1.8.4, layout looks like below:
     └── utils
         └── __init__.py
 
+```
 
 
 ##usage
